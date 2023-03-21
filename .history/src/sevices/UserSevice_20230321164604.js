@@ -1,0 +1,5 @@
+const fetchAllUser = () => {
+
+}
+
+export {fetchAllUser}
